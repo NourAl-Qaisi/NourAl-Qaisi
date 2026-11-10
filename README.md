@@ -254,19 +254,6 @@ An AI-powered healthcare assistant that uses Retrieval-Augmented Generation to p
 
 ---
 
-<h2 align="center">🤝 VOLUNTEERING & LEADERSHIP</h2>
-
-### IEEE WISE — Logistics Volunteer
-
-**Amman | 2025–2026**
-
-- Supported event organization and preparation.
-- Participated in organizing the branch opening and multiple events.
-- Coordinated volunteers and contributed to resource allocation.
-- Developed teamwork, communication, and organizational skills.
-
----
-
 <h2 align="center">📬 LET'S CONNECT</h2>
 
 <div align="center">
