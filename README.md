@@ -1,5 +1,10 @@
 
 <div align="center">
+  <img src="banner.png" width="100%" alt="Nour Al-Qaisi">
+</div>
+<br>
+
+<div align="center">
 
 # Nour Al-Qaisi
 
