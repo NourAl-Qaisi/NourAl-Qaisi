@@ -28,17 +28,26 @@ Hello! I'm Nour, a Software Engineering graduate passionate about developing int
 
 ---
 
-## 🛠️ Technical Skills
 
-| Category | Technologies |
-|---|---|
-| Programming | Python, JavaScript, C, SQL |
-| Frontend | HTML, CSS, React, Bootstrap |
-| Backend | Node.js, Express.js, FastAPI |
-| AI & Machine Learning | RAG, FAISS, Sentence Transformers, Gemini |
-| Tools | Git, GitHub, Linux, VS Code |
+## 🛠️ Tech Stack
 
----
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI & Tools
+![Python](https://img.shields.io/badge/AI_Development-7B8DB8?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 ## 🚀 Featured Projects
