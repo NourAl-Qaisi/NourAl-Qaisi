@@ -3,75 +3,78 @@
 <img src="Banner.png" width="100%" alt="Nour Al-Qaisi"/>
 </div>
 
----
+<br>
 
 <h2 align="center">👩🏻‍💻 About Me</h2>
 
-Hello! I'm **Nour Al-Qaisi**, a Software Engineering graduate passionate about Artificial Intelligence, software development, and creating meaningful digital solutions.
+I'm **Nour Al-Qaisi**, a Software Engineering graduate from World Islamic Sciences and Education University, passionate about Artificial Intelligence, software development, and building meaningful digital solutions.
 
 - 🎓 B.Sc. in Software Engineering — Very Good
-- 🤖 Interested in Artificial Intelligence & Generative AI
+- 🤖 Artificial Intelligence & Generative AI
 - 💻 Full-Stack Software Development
 - 🧪 Software Quality Assurance & Testing
-- 🌱 Always learning and exploring new technologies
+- 🌱 Continuous Learning & Problem Solving
 
 ---
 
-
 <h2 align="center">💎 Technical Skills</h2>
 
-### 💻 Programming Languages
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-526DAB?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-7186C5?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8995C5?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-526DAB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-B18CA8?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7186C5?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8995C5?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B18CA8?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-7186C5?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-526DAB?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-8995C5?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-718A91?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Frontend Development
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-B18CA8?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-8995C5?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7186C5?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-526DAB?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8995C5?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend Development
+### Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-718A91?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-526DAB?style=for-the-badge&logo=express&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-8995C5?style=for-the-badge&logo=dotnet&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-526DAB?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-7186C5?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-718A91?style=for-the-badge&logo=mysql&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-B18CA8?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-718A91?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-526DAB?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧪 Software Testing & QA
+### Artificial Intelligence
 
-![Test Planning](https://img.shields.io/badge/Test_Planning-526DAB?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/Test_Cases-7186C5?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-8995C5?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-B18CA8?style=for-the-badge)
-![System Testing](https://img.shields.io/badge/System_Testing-7186C5?style=for-the-badge)
-![UAT](https://img.shields.io/badge/UAT-526DAB?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8995C5?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-526DAB?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-7186C5?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-B18CA8?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-8995C5?style=for-the-badge)
 
-### 🔄 Software Engineering Practices
+### Software Testing & QA
 
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-8995C5?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-7186C5?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-B18CA8?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC_Architecture-526DAB?style=for-the-badge)
-![CRUD](https://img.shields.io/badge/CRUD_Operations-718A91?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-526DAB?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-7186C5?style=for-the-badge)
+![System Testing](https://img.shields.io/badge/System_Testing-8995C5?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-B18CA8?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test_Cases-526DAB?style=for-the-badge)
 
-### 🛠️ Tools & Development Environment
+### Tools & Practices
 
 ![Git](https://img.shields.io/badge/Git-C17F75?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-526DAB?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-8995C5?style=for-the-badge&logo=linux&logoColor=white)
-![Command Line](https://img.shields.io/badge/Command_Line-718A91?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-7186C5?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-8995C5?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-B18CA8?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-526DAB?style=for-the-badge)
 
+---
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<h3>🎓 UniCollab — Graduation Project</h3>
+### 🎓 UniCollab — Graduation Project
 
 **Full-Stack Academic Collaboration Platform**
 
@@ -85,9 +88,9 @@ A web-based platform designed to connect students and academic supervisors from 
 - Real-time notifications.
 - Collaboration between students and supervisors.
 
-**Project Highlights**
+**Development & Testing**
 
-- 4 Scrum sprints.
+- Developed using Agile methodology and 4 Scrum sprints.
 - MVP delivered within 8 weeks.
 - Unit, Integration, System and UAT testing.
 - 100% pass rate on core test cases.
@@ -96,9 +99,9 @@ A web-based platform designed to connect students and academic supervisors from 
 
 ---
 
-<h3>🤖 AmanAI — Healthcare RAG Chatbot</h3>
+### 🤖 AmanAI — Healthcare RAG Chatbot
 
-An AI-powered healthcare assistant designed to provide context-aware responses using Retrieval-Augmented Generation.
+An AI-powered healthcare assistant that uses Retrieval-Augmented Generation to provide context-aware responses based on retrieved information.
 
 **Key Features**
 
@@ -109,43 +112,58 @@ An AI-powered healthcare assistant designed to provide context-aware responses u
 - Prompt injection protection.
 - Admin dashboard.
 
-**Technologies:** Python, FastAPI, React, FAISS, Sentence Transformers, Google Gemini, JWT.
+**Technologies:** Python, FastAPI, React, Vite, FAISS, Sentence Transformers, Google Gemini, JWT, bcrypt.
+
+---
+
+### 🛒 Shopping Cart Application
+
+A full-stack shopping cart project with separate frontend and backend repositories.
+
+**Technologies:** React, JavaScript, Python.
+
+---
+
+### 📊 Mini ERP System
+
+A mini enterprise resource planning project with separate frontend and backend components.
 
 ---
 
 <h2 align="center">🎓 Training & Development</h2>
 
-**42 Amman — Piscine**
+### 42 Amman — Piscine Program
 
-- C programming fundamentals.
-- Linux and command-line environment.
+- Intensive C programming experience.
+- Linux and command-line fundamentals.
 - Problem-solving and peer-to-peer learning.
 
-**University of Jordan — Full-Stack Development Training**
+### University of Jordan — Full-Stack Development Training
 
-- ASP.NET development.
+- ASP.NET and C#.
 - Backend development.
 - Database integration.
 
 ---
 
----
-
 <h2 align="center">📚 Courses & Professional Development</h2>
 
-- **Full Stack Web Development** — Al Hussein Technical University
-- **AWS AI Practitioner Challenge** — Udacity
-- **Full-Stack Development Internship (ASP.NET)** — University of Jordan
-- **Piscine Program** — 42 Amman
+- Full-Stack Web Development — Al Hussein Technical University.
+- AWS AI Practitioner Challenge — Udacity.
+- Full-Stack Development Training — University of Jordan.
+- Piscine Program — 42 Amman.
+
+---
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
-I'm always open to learning, collaboration, and exciting opportunities in Software Engineering and Artificial Intelligence.
+I'm always open to learning, collaboration, and new opportunities in Software Engineering and Artificial Intelligence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7186C5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-526DAB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NourAl-Qaisi)
 
 </div>
+
