@@ -98,20 +98,6 @@ An AI-powered healthcare assistant designed to provide context-aware responses u
 
 ---
 
-<h3>🛒 Shopping Cart Application</h3>
-
-A full-stack e-commerce application focused on shopping cart functionality and frontend-backend integration.
-
-**Technologies:** React, JavaScript, Python.
-
----
-
-<h3>📊 Mini ERP System</h3>
-
-A business management application developed with separate frontend and backend components.
-
----
-
 <h2 align="center">🎓 Training & Development</h2>
 
 **42 Amman — Piscine**
