@@ -129,6 +129,15 @@ An AI-powered healthcare assistant designed to provide context-aware responses u
 
 ---
 
+---
+
+<h2 align="center">📚 Courses & Professional Development</h2>
+
+- **Full Stack Web Development** — Al Hussein Technical University
+- **AWS AI Practitioner Challenge** — Udacity
+- **Full-Stack Development Internship (ASP.NET)** — University of Jordan
+- **Piscine Program** — 42 Amman
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
