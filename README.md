@@ -192,9 +192,7 @@ An AI-powered healthcare assistant that uses Retrieval-Augmented Generation to p
 
 I'm always open to collaboration, learning opportunities, and new challenges in Software Engineering, Artificial Intelligence, and Software Quality Assurance.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7186C5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nouralqaisi
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7186C5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nouralqaisi)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-526DAB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NourAl-Qaisi)
 
