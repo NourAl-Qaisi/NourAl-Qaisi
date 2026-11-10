@@ -17,42 +17,57 @@ Hello! I'm **Nour Al-Qaisi**, a Software Engineering graduate passionate about A
 
 ---
 
+
 <h2 align="center">💎 Technical Skills</h2>
 
-**Programming Languages**
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-526DAB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8995C5?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-526DAB?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-7186C5?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-526DAB?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8995C5?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-526DAB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B18CA8?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7186C5?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend Development**
+### 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-B18CA8?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-8995C5?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-7186C5?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7186C5?style=for-the-badge&logo=javascript&logoColor=white)
 
-**Backend Development**
+### ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-718A91?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-526DAB?style=for-the-badge&logo=express&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-8995C5?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-718A91?style=for-the-badge&logo=fastapi&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-526DAB?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-7186C5?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-718A91?style=for-the-badge&logo=mysql&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-B18CA8?style=for-the-badge)
 
-**Artificial Intelligence**
+### 🧪 Software Testing & QA
 
-![RAG](https://img.shields.io/badge/RAG-8995C5?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-7186C5?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-9A87C5?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-B18CA8?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test_Planning-526DAB?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test_Cases-7186C5?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-8995C5?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-B18CA8?style=for-the-badge)
+![System Testing](https://img.shields.io/badge/System_Testing-7186C5?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-526DAB?style=for-the-badge)
 
-**Tools & Technologies**
+### 🔄 Software Engineering Practices
+
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-8995C5?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-7186C5?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-B18CA8?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC_Architecture-526DAB?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD_Operations-718A91?style=for-the-badge)
+
+### 🛠️ Tools & Development Environment
 
 ![Git](https://img.shields.io/badge/Git-C17F75?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-526DAB?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-8995C5?style=for-the-badge&logo=linux&logoColor=white)
+![Command Line](https://img.shields.io/badge/Command_Line-718A91?style=for-the-badge)
 
----
 
 <h2 align="center">🚀 Featured Projects</h2>
 
