@@ -3,15 +3,6 @@
 
 <img src="Banner.png" width="100%" alt="Nour Al-Qaisi Banner"/>
 
-# Nour Al-Qaisi
-
-### AI & Software Engineer
-
-*Building intelligent, reliable, and meaningful software solutions.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NourAl-Qaisi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Nouralqaisi203@gmail.com)
-
 </div>
 
 ---
