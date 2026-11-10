@@ -1,142 +1,141 @@
 
 <div align="center">
-
-<img src="Banner.png" width="100%" alt="Nour Al-Qaisi Banner"/>
-
+<img src="Banner.png" width="100%" alt="Nour Al-Qaisi"/>
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+<h2 align="center">👩🏻‍💻 About Me</h2>
 
-Hello! I'm Nour, a Software Engineering graduate from The World Islamic Sciences and Education University.
-
-I'm passionate about software engineering, artificial intelligence, and building practical solutions that create real-world impact.
+Hello! I'm **Nour Al-Qaisi**, a Software Engineering graduate passionate about Artificial Intelligence, software development, and creating meaningful digital solutions.
 
 - 🎓 B.Sc. in Software Engineering — Very Good
-- 🤖 Interested in Artificial Intelligence and Generative AI
+- 🤖 Interested in Artificial Intelligence & Generative AI
 - 💻 Full-Stack Software Development
-- 🧪 Software Quality Assurance and Testing
-- 🌱 Continuously learning and exploring new technologies
+- 🧪 Software Quality Assurance & Testing
+- 🌱 Always learning and exploring new technologies
 
 ---
 
-## 🛠️ Technical Skills
+<h2 align="center">💎 Technical Skills</h2>
 
-### Programming Languages
+**Programming Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-526DAB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8995C5?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-7186C5?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-526DAB?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend Development
+**Frontend Development**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-B18CA8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8995C5?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-7186C5?style=for-the-badge&logo=react&logoColor=white)
 
-### Backend Development
+**Backend Development**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-718A91?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-526DAB?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-8995C5?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-718A91?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI & Emerging Technologies
+**Artificial Intelligence**
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-8996C8?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-7B8DB8?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-6C83B6?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8995C5?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-7186C5?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-9A87C5?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-B18CA8?style=for-the-badge)
 
-### Software Quality & Tools
+**Tools & Technologies**
 
-![Software Testing](https://img.shields.io/badge/Software_Testing-6C83B6?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-C17F75?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-526DAB?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-8995C5?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🎓 UniCollab — Graduation Project
+<h3>🎓 UniCollab — Graduation Project</h3>
 
 **Full-Stack Academic Collaboration Platform**
 
-A web-based platform designed to connect students and academic supervisors from different Jordanian universities, enabling them to collaborate on academic projects.
+A web-based platform designed to connect students and academic supervisors from different Jordanian universities, enabling collaboration on academic projects.
 
-**Key Features:**
-- Secure user authentication using JWT and bcrypt.
-- Project management with CRUD operations.
-- Team formation and collaboration.
+**Key Features**
+
+- Secure authentication using JWT and bcrypt.
+- Academic project and team management.
 - Cross-university supervision requests.
 - Real-time notifications.
-- Comprehensive testing: Unit, Integration, System, and UAT.
+- Collaboration between students and supervisors.
 
-**Project Highlights:**
+**Project Highlights**
+
 - 4 Scrum sprints.
 - MVP delivered within 8 weeks.
+- Unit, Integration, System and UAT testing.
 - 100% pass rate on core test cases.
 
 **Project Period:** October 2025 – January 2026.
 
 ---
 
-### 🤖 AmanAI — Healthcare RAG Chatbot
+<h3>🤖 AmanAI — Healthcare RAG Chatbot</h3>
 
-An AI-powered healthcare assistant designed to provide context-aware responses using Retrieval-Augmented Generation (RAG).
+An AI-powered healthcare assistant designed to provide context-aware responses using Retrieval-Augmented Generation.
 
-**Key Features:**
-- Semantic search and document retrieval.
+**Key Features**
+
+- Semantic document retrieval.
 - AI-powered conversational responses.
 - Role-based access control.
 - Emergency intent detection.
 - Prompt injection protection.
 - Admin dashboard.
 
-**Technologies:** Python, FastAPI, React, Vite, FAISS, Sentence Transformers, Google Gemini, JWT, bcrypt.
+**Technologies:** Python, FastAPI, React, FAISS, Sentence Transformers, Google Gemini, JWT.
 
 ---
 
-## 🎓 Training & Development
+<h3>🛒 Shopping Cart Application</h3>
 
-**42 Amman — Piscine Participant**
-- Intensive project-based programming experience.
-- C programming and Linux fundamentals.
-- Peer-to-peer learning and collaborative problem-solving.
+A full-stack e-commerce application focused on shopping cart functionality and frontend-backend integration.
 
-**University of Jordan — Full-Stack Development Internship**
-- ASP.NET and C# development.
-- MVC architecture.
-- Backend development and database integration.
-- Frontend and backend integration.
+**Technologies:** React, JavaScript, Python.
 
 ---
 
-## 📊 GitHub Statistics
+<h3>📊 Mini ERP System</h3>
+
+A business management application developed with separate frontend and backend components.
+
+---
+
+<h2 align="center">🎓 Training & Development</h2>
+
+**42 Amman — Piscine**
+
+- C programming fundamentals.
+- Linux and command-line environment.
+- Problem-solving and peer-to-peer learning.
+
+**University of Jordan — Full-Stack Development Training**
+
+- ASP.NET development.
+- Backend development.
+- Database integration.
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NourAl-Qaisi&show_icons=true&theme=tokyonight&hide_border=true)
+I'm always open to learning, collaboration, and exciting opportunities in Software Engineering and Artificial Intelligence.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NourAl-Qaisi&layout=compact&theme=tokyonight&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7186C5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to learning, collaboration, and new opportunities in software engineering and AI.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/NourAl-Qaisi)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nouralqaisi203@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-526DAB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NourAl-Qaisi)
 
 </div>
