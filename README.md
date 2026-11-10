@@ -57,64 +57,7 @@ I'm interested in building reliable software solutions, exploring Artificial Int
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-B18CA8?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-8995C5?style=for-the-badge)
 
-### 🧪 SOFTWARE QUALITY ASSURANCE & TESTING
 
-**1. Manual Testing & Test Design**
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-526DAB?style=for-the-badge)
-![Test Planning](https://img.shields.io/badge/Test_Planning-7186C5?style=for-the-badge)
-![Test Scenarios](https://img.shields.io/badge/Test_Scenarios-8995C5?style=for-the-badge)
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-B18CA8?style=for-the-badge)
-![Test Execution](https://img.shields.io/badge/Test_Execution-526DAB?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-7186C5?style=for-the-badge)
-![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-8995C5?style=for-the-badge)
-![Sanity Testing](https://img.shields.io/badge/Sanity_Testing-B18CA8?style=for-the-badge)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-526DAB?style=for-the-badge)
-
-**2. Testing Types & Levels**
-
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-526DAB?style=for-the-badge)
-![Non Functional Testing](https://img.shields.io/badge/Non--Functional_Testing-7186C5?style=for-the-badge)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-8995C5?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-B18CA8?style=for-the-badge)
-![System Testing](https://img.shields.io/badge/System_Testing-526DAB?style=for-the-badge)
-![UAT](https://img.shields.io/badge/User_Acceptance_Testing-7186C5?style=for-the-badge)
-![End to End](https://img.shields.io/badge/End--to--End_Testing-8995C5?style=for-the-badge)
-![Compatibility](https://img.shields.io/badge/Compatibility_Testing-B18CA8?style=for-the-badge)
-
-**3. Testing Techniques**
-
-![Black Box](https://img.shields.io/badge/Black_Box_Testing-526DAB?style=for-the-badge)
-![Boundary Value Analysis](https://img.shields.io/badge/Boundary_Value_Analysis-7186C5?style=for-the-badge)
-![Equivalence Partitioning](https://img.shields.io/badge/Equivalence_Partitioning-8995C5?style=for-the-badge)
-![Decision Table](https://img.shields.io/badge/Decision_Table_Testing-B18CA8?style=for-the-badge)
-![Positive Negative](https://img.shields.io/badge/Positive_&_Negative_Testing-526DAB?style=for-the-badge)
-![Risk Based](https://img.shields.io/badge/Risk--Based_Testing-7186C5?style=for-the-badge)
-
-**4. Defect Management & QA Documentation**
-
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-526DAB?style=for-the-badge)
-![Defect Lifecycle](https://img.shields.io/badge/Defect_Lifecycle-7186C5?style=for-the-badge)
-![Severity Priority](https://img.shields.io/badge/Severity_&_Priority-8995C5?style=for-the-badge)
-![Test Documentation](https://img.shields.io/badge/Test_Documentation-B18CA8?style=for-the-badge)
-![Test Reports](https://img.shields.io/badge/Test_Reports-526DAB?style=for-the-badge)
-![RTM](https://img.shields.io/badge/Requirements_Traceability_Matrix-7186C5?style=for-the-badge)
-
-**5. API & Automation Testing**
-
-![API Testing](https://img.shields.io/badge/API_Testing-526DAB?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-7186C5?style=for-the-badge)
-![Request Response Validation](https://img.shields.io/badge/Request_&_Response_Validation-8995C5?style=for-the-badge)
-![Automation Fundamentals](https://img.shields.io/badge/Test_Automation_Fundamentals-B18CA8?style=for-the-badge)
-
-**6. QA Processes & Methodologies**
-
-![SDLC](https://img.shields.io/badge/SDLC-526DAB?style=for-the-badge)
-![STLC](https://img.shields.io/badge/STLC-7186C5?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-8995C5?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-B18CA8?style=for-the-badge)
-![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-526DAB?style=for-the-badge)
-![Quality Control](https://img.shields.io/badge/Quality_Control-7186C5?style=for-the-badge)
 
 ### 🛠️ Tools & Development Environment
 
@@ -122,6 +65,110 @@ I'm interested in building reliable software solutions, exploring Artificial Int
 ![GitHub](https://img.shields.io/badge/GitHub-526DAB?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-8995C5?style=for-the-badge&logo=linux&logoColor=white)
 ![Command Line](https://img.shields.io/badge/Command_Line-718A91?style=for-the-badge)
+
+---
+
+---
+
+<h2 align="center">🧪 QUALITY ASSURANCE & SOFTWARE TESTING</h2>
+
+<p align="center">
+  <i>Ensuring software quality through structured testing, analytical thinking, and continuous improvement.</i>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Manual Testing
+
+- Manual Testing
+- Test Planning
+- Test Scenarios
+- Test Case Design
+- Test Execution
+- Exploratory Testing
+- Regression Testing
+- Smoke & Sanity Testing
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Testing Types & Levels
+
+- Functional Testing
+- Non-Functional Testing
+- Unit Testing
+- Integration Testing
+- System Testing
+- User Acceptance Testing (UAT)
+- End-to-End Testing
+- Compatibility Testing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Testing Techniques
+
+- Black Box Testing
+- Boundary Value Analysis
+- Equivalence Partitioning
+- Decision Table Testing
+- Positive & Negative Testing
+- Risk-Based Testing
+
+</td>
+<td width="50%" valign="top">
+
+### 🐞 Defect Management
+
+- Bug Reporting
+- Defect Lifecycle
+- Severity & Priority
+- Defect Tracking
+- Test Result Analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📋 QA Documentation
+
+- Test Plans
+- Test Cases
+- Test Scenarios
+- Test Reports
+- Requirements Traceability Matrix (RTM)
+- Technical Documentation
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 API & Automation Testing
+
+- API Testing Fundamentals
+- REST API Concepts
+- Request & Response Validation
+- Test Automation Fundamentals
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>QA Methodologies</b><br/>
+  <img src="https://img.shields.io/badge/SDLC-526DAB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STLC-7186C5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agile-8995C5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scrum-B18CA8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/QA-526DAB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/QC-7186C5?style=flat-square"/>
+</p>
 
 ---
 
