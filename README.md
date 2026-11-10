@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Nour Al-Qaisi">
+  <img src="Banner.png" width="100%" alt="Nour Al-Qaisi">
 </div>
 <br>
 
