@@ -432,12 +432,6 @@ An AI-powered healthcare chatbot built using Retrieval-Augmented Generation (RAG
 - Learned MVC architecture and database integration.
 - Developed server-side logic and frontend integration.
 
-### IEEE WISE — Volunteer
-**Logistics & Event Support**
-- Supported the opening of the branch.
-- Participated in organizing and coordinating multiple events.
-- Assisted with logistics and volunteer coordination.
-
 ---
 
 ## 📚 Continuous Learning
