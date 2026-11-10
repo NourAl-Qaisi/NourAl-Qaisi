@@ -37,32 +37,29 @@ Hello! I'm Nour, a Software Engineering graduate passionate about developing int
 
 ---
 
+
 ## 🚀 Featured Projects
 
 ### 🤖 AmanAI – Healthcare RAG Chatbot
-An AI-powered healthcare assistant built using Retrieval-Augmented Generation.
+An intelligent healthcare assistant powered by Retrieval-Augmented Generation.
 
-**Technologies:** Python, FastAPI, React, FAISS, Gemini.
+**Tech:** Python · FastAPI · React · FAISS · Gemini
 
 ### 🛒 Shopping Cart Application
-A full-stack shopping cart application.
+A full-stack e-commerce application.
 
-**Technologies:** React, JavaScript, Python.
+**Tech:** React · JavaScript · Backend Development
 
 ### 📊 Mini ERP System
-A business management application with frontend and backend components.
+A business management system with separate frontend and backend components.
 
----
+**Tech:** Python · JavaScript
 
-## 📈 GitHub Statistics
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NourAl-Qaisi&show_icons=true&theme=default&hide_border=true)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NourAl-Qaisi&layout=compact&theme=default&hide_border=true)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=NourAl-Qaisi&theme=default&hide_border=true)
 
 ---
 
